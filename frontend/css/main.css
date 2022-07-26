@@ -1,0 +1,11 @@
+.wrapper-video > iframe {
+  min-height: 60vh;
+  max-width: 100%;
+  min-width: 48%;
+  margin-bottom: 40px;
+}
+.wrapper-video {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

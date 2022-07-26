@@ -1,0 +1,2 @@
+User-agent: *Sitemap: http://daugac.com.vn/sitemap.xml
+Disallow: /images/
